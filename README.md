@@ -11,4 +11,4 @@ Daily notes on working with AI assistants.
 
 | Date | Status | Topic |
 |------|--------|-------|
-| [2026-02-01](drafts/2026-02-01.md) | Draft | 63 commits, 6 releases across 5 repos |
+| [2026-01-31 – 02-01](drafts/2026-01-31-02-01.md) | Draft | 137 commits, 9 releases, 4 new projects |
